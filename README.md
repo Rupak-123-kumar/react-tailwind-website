@@ -39,27 +39,32 @@ The project includes shopping pages, cart management using Context API, authenti
 ## ⚙️ Project Setup
 
 ### 1️⃣ Clone Repository
-```bash
-git clone <repository-url>
+
+    git clone <repository-url>
+    
 2️⃣ Move to Project Folder
 
-cd tailwind-vite
+    cd tailwind-vite
+    
 3️⃣ Install Dependencies
 
-npm install
+    npm install
+    
 4️⃣ Run Development Server
 
-npm run dev
+    npm run dev
+    
 5️⃣ Open Browser
 
-http://localhost:5173
+    http://localhost:5173
+    
 ##📸 Screenshots
 
 ### 🏠 Home Page
 <img width="1626" height="811" alt="image" src="https://github.com/user-attachments/assets/dd8798d6-e965-4547-a930-ef7cf355f26c" />
 
-
 ### 👤 About Page
+
 
 ### 👕 Product Listing Page
 
@@ -73,58 +78,58 @@ http://localhost:5173
 
 📂 Complete Folder Structure
 
-tailwind-vite/
-├── backend/
-│
-├── public/
-│
-├── src/
-│   ├── api/
-│   │   └── axios.js
-│   │
-│   ├── assets/
-│   │   └── myimage/
-│   │       └── 1000000221.jpg
-│   │
-│   ├── context/
-│   │   └── CartContext.jsx
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Clothes.jsx
-│   │   ├── Cart.jsx
-│   │   ├── Login.jsx
-│   │   ├── SignUp.jsx
-│   │   ├── ForgotPassword.jsx
-│   │   └── Contact.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│
-│   ├── styles/
-│   │   ├── index.css
-│   │   ├── components.css
-│   │   └── utilities.css
-│
-│   └── App.css
-│
-|
-│
-├── index.html
-├── tailwind.config.js
-├── postcss.config.js
-├── eslint.config.js
-├── package.json
-├── package-lock.json
-└── .gitignore
+    tailwind-vite/
+    ├── backend/
+    │
+    ├── public/
+    │
+    ├── src/
+    │   ├── api/
+    │   │   └── axios.js
+    │   │
+    │   ├── assets/
+    │   │   └── myimage/
+    │   │       └── 1000000221.jpg
+    │   │
+    │   ├── context/
+    │   │   └── CartContext.jsx
+    │   │
+    │   ├── pages/
+    │   │   ├── Home.jsx
+    │   │   ├── About.jsx
+    │   │   ├── Clothes.jsx
+    │   │   ├── Cart.jsx
+    │   │   ├── Login.jsx
+    │   │   ├── SignUp.jsx
+    │   │   ├── ForgotPassword.jsx
+    │   │   └── Contact.jsx
+    │   │
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │
+    │   ├── styles/
+    │   │   ├── index.css
+    │   │   ├── components.css
+    │   │   └── utilities.css
+    │
+    │   └── App.css
+    │
+    |
+    │
+    ├── index.html
+    ├── tailwind.config.js
+    ├── postcss.config.js
+    ├── eslint.config.js
+    ├── package.json
+    ├── package-lock.json
+    └── .gitignore
 
 🎨 Tailwind CSS Setup
-src/styles/index.css
+    src/styles/index.css
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
 
 🔮 Future Enhancements
 🔐 Authentication with backend & JWT
