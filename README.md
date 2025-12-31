@@ -53,32 +53,21 @@ npm run dev
 5️⃣ Open Browser
 
 http://localhost:5173
-📸 Screenshots
-Below are some screenshots showcasing the UI and features of the application.
+##📸 Screenshots
 
+### 🏠 Home Page
 
- 🏠 Home Page
-![Home Page](https://github.com/user-attachments/assets/c08bd4f7-4bc3-4d47-80f3-d031ec7d4360)
+### 👤 About Page
 
- 👤 About Page
-![About Page](https://github.com/user-attachments/assets/1d45a46b-5a13-4056-a685-82e223112258)
+### 👕 Product Listing Page
 
- 👕 Product Listing Page
-![Product Listing Page](https://github.com/user-attachments/assets/1ba13444-2d65-4a31-af07-03f1b560764b)
-
- 🛒 Cart Page
-![Cart Page](https://github.com/user-attachments/assets/239b645e-f383-4ed1-ae19-2b03a0097cbf)
+### 🛒 Cart Page
 
 ### 🔐 Login Page
-![Login Page](https://github.com/user-attachments/assets/1ac6f19d-1e1d-42ab-a024-cd355a778676)
 
 ### 📝 Signup Page
-![Signup Page](https://github.com/user-attachments/assets/e5651258-1703-42f8-a841-4d6229ae0839)
 
 ### 📞 Contact Page
-![Contact Page](https://github.com/user-attachments/assets/5122972e-502c-4f6d-8f2a-9203aa37d27c)
-
-
 
 📂 Complete Folder Structure
 
