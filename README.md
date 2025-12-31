@@ -56,7 +56,7 @@ http://localhost:5173
 ##📸 Screenshots
 
 ### 🏠 Home Page
-<img width="1626" height="811" alt="image" src="https://github.com/user-attachments/assets/95e1ebd5-6f16-4fe0-92f4-d96c692110a7" />
+<img width="1626" height="811" alt="image" src="https://github.com/user-attachments/assets/dd8798d6-e965-4547-a930-ef7cf355f26c" />
 
 
 ### 👤 About Page
