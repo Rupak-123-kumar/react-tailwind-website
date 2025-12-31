@@ -57,33 +57,40 @@ http://localhost:5173
 Below are some screenshots showcasing the UI and features of the application.
 
 🏠 Home Page
-<img width="1885" height="1038" alt="Screenshot 2025-07-01 013258" src="https://github.com/user-attachments/assets/16e1569e-fbeb-4b9b-987a-8b604265d91f" />
+<img width="1885" height="1038" alt="Screenshot 2025-07-01 013258" src="https://github.com/user-attachments/assets/c08bd4f7-4bc3-4d47-80f3-d031ec7d4360" />
+
 
 
 👤 About Page
 
-<img width="1912" height="1064" alt="Screenshot 2025-07-01 013333" src="https://github.com/user-attachments/assets/6807a2b3-ded4-43c7-9278-d3d8714908e5" />
+<img width="1912" height="1064" alt="Screenshot 2025-07-01 013333" src="https://github.com/user-attachments/assets/1d45a46b-5a13-4056-a685-82e223112258" />
+
 
 
 
 👕 Product Listing Page
-<img width="1907" height="1014" alt="Screenshot 2025-07-01 013318" src="https://github.com/user-attachments/assets/12954b79-bdfc-49f8-982e-e2c16af4b8b0" />
+<img width="1907" height="1014" alt="Screenshot 2025-07-01 013318" src="https://github.com/user-attachments/assets/1ba13444-2d65-4a31-af07-03f1b560764b" />
+
 
 
 🛒 Cart Page
-<img width="1901" height="917" alt="Screenshot 2025-12-31 153458" src="https://github.com/user-attachments/assets/f5debf2d-0c7a-4583-894e-44ef17d47982" />
+<img width="1901" height="917" alt="Screenshot 2025-12-31 153458" src="https://github.com/user-attachments/assets/239b645e-f383-4ed1-ae19-2b03a0097cbf" />
+
+
 
 
 🔐 Login Page
-<img width="1895" height="998" alt="Screenshot 2025-07-01 013416" src="https://github.com/user-attachments/assets/ed6929b4-4a29-406f-92fb-7139ec49e9c0" />
+<img width="1895" height="998" alt="Screenshot 2025-07-01 013416" src="https://github.com/user-attachments/assets/1ac6f19d-1e1d-42ab-a024-cd355a778676" />
+
 
 
 📝 Signup Page
-<img width="1890" height="917" alt="Screenshot 2025-12-31 153702" src="https://github.com/user-attachments/assets/bf07a705-21e9-49ba-92a3-f766af42c9bf" />
+<img width="1890" height="917" alt="Screenshot 2025-12-31 153702" src="https://github.com/user-attachments/assets/e5651258-1703-42f8-a841-4d6229ae0839" />
+
 
 
 📞 Contact Page
-<img width="1898" height="1045" alt="Screenshot 2025-07-01 013401" src="https://github.com/user-attachments/assets/0c21d387-6c94-4c47-b1b5-17048909cf53" />
+<img width="1898" height="1045" alt="Screenshot 2025-07-01 013401" src="https://github.com/user-attachments/assets/5122972e-502c-4f6d-8f2a-9203aa37d27c" />
 
 
 
@@ -135,6 +142,7 @@ tailwind-vite/
 ├── package.json
 ├── package-lock.json
 └── .gitignore
+
 🎨 Tailwind CSS Setup
 src/styles/index.css
 
